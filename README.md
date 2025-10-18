@@ -4,9 +4,9 @@
 Welcome! This repository showcases my main academic and personal software projects.  
 Each project includes a README with the objective, technologies used, architecture overview, and demo screenshots.
 
-> 🔒 The **source code for all projects is private** to protect academic integrity.  
+> 🔒 The **source code for all projects is private** to protect integrity.  
 > To review a specific project, please email me at [raghav.chadha25@gmail.com] 
-> Include your GitHub username and the project name, and I’ll grant you access.
+> Include your GitHub username and the project name, and I’ll grant you access in cases such as a recruiter/manager review.
 
 ---
 
