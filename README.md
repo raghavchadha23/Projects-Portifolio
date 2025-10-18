@@ -13,8 +13,9 @@ Each project includes a README with the objective, technologies used, architectu
 ## 📘 Projects Overview
 
 ### 🚉 [Railway Track Simulator](projects/railway-simulator)
-Simulates real-time train movements using multithreading, mutexes, and condition variables in C.  
-Focuses on synchronization, memory management, and concurrent resource allocation.  
+- 🚄 Built a **real-time simulation system** for railway tracks with dynamic signal and track state management, simulating realistic train scheduling and control flow.  
+- ⚙️ Implemented **multithreading, mutex locks, and process synchronization** to enable efficient parallel execution and maintain precise schedule accuracy.  
+- 🧠 Focused on **low-level performance optimization**, ensuring thread-safe operations, efficient resource management, and a scalable architecture using **C**.  
 **Tech:** C, POSIX Threads, Mutexes, Condition Variables  
 **Status:** Completed 
 
