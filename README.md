@@ -1,5 +1,5 @@
 # PROJECTS PORTIFOLIO
-# 💼 Raghav Chadha — Software Project Portfolio
+# 💼 Raghav Chadha: Software Project Portfolio
 
 Welcome! This repository showcases my main academic and personal software projects.  
 Each project includes a README with the objective, technologies used, architecture overview, and demo screenshots.
