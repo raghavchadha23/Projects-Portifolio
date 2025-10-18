@@ -13,10 +13,9 @@ Each project includes a README with the objective, technologies used, architectu
 ## 📘 Projects Overview
 
 ### 🚉 [Railway Track Simulator](projects/railway-simulator)
-# 🚉 Railway Track Simulation (MTS)
 
 A **real-time multithreaded train traffic simulator** built in **C**, modeling trains traveling from East and West on a **shared single-track system**.  
-The program ensures safety, fairness, and concurrency through **mutex locks**, **condition variables**, and precise **thread scheduling** — accurately simulating real-world train operations and control flow.
+The program ensures safety, fairness, and concurrency through **mutex locks**, **condition variables**, and precise **thread scheduling**, accurately simulating real-world train operations and control flow.
 
 ---
 
@@ -26,11 +25,11 @@ The program ensures safety, fairness, and concurrency through **mutex locks**, *
 - 🧩 **Implements a multithreaded architecture**, where each train runs as an independent thread using POSIX `pthread_create`.  
 - 🔒 **Employs mutex locks and condition variables** to manage shared resource access and prevent race conditions.  
 - 🕒 **Simulates realistic scheduling and timing**, with load and crossing delays controlled via sleep intervals and precise time tracking.  
-- 🔁 **Maintains directional fairness** — limits consecutive trains in one direction before switching flow.  
+- 🔁 **Maintains directional fairness**: limits consecutive trains in one direction before switching flow.  
 - 🧠 **Focuses on performance optimization**, achieving efficient thread-safe synchronization and scalable design.  
 - 🚦 **Includes controller thread logic** that prioritizes trains and enforces proper sequencing based on direction and priority queues.  
 - ⚙️ **Demonstrates operating system concurrency concepts**, including inter-thread communication and critical section handling.  
-- 🧮 **Accurate event logging** for every train — loading, waiting, crossing, and exit times.  
+- 🧮 **Accurate event logging** for every train: loading, waiting, crossing, and exit times.  
 - **Tech:** C • POSIX Threads • Mutexes • Condition Variables • Synchronization  
 - **Status:** Completed  
 
@@ -38,7 +37,7 @@ The program ensures safety, fairness, and concurrency through **mutex locks**, *
 
 ### 🗓️ [ICS Calendar Parser](projects/ics-parser)
 A **Python-based calendar parser** that reads and converts `.ics` (iCalendar) files into structured, **human-readable output**, efficiently handling **recurring** and **overlapping events**.  
-It uses **custom data structures** for event indexing, optimized memory management, and fast parsing of large calendar files — producing organized, chronological summaries for users or automated systems.
+It uses **custom data structures** for event indexing, optimized memory management, and fast parsing of large calendar files, producing organized, chronological summaries for users or automated systems.
 
 ---
 
