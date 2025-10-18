@@ -1,4 +1,4 @@
-# portifolio
+# PROJECTS PORTIFOLIO
 # 💼 Raghav Chadha — Software Project Portfolio
 
 Welcome! This repository showcases my main academic and personal software projects.  
@@ -41,6 +41,6 @@ Tested with Wireshark and tcpdump.
 📧 [raghavchadha2323@gmail.com](mailto:raghav.chadha25@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/raghav-chadha-uvic)
 
-)  
+
 🔗 Access to private code available upon request.
 
