@@ -1,6 +1,8 @@
 💬 For access to this project or other portfolio work, please email me at:  
 📩 **raghav.chadha25@gmail.com**
 
+🔒 The **source code access is available to verified reviewers (e.g., recruiters, hiring managers, professors) upon request** to protect integrity. 
+
 # 🗓️ ICS Calendar Parser
 
 This project is a **Python-based parser** for **iCalendar (.ics)** files.  
