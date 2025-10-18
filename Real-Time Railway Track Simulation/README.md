@@ -2,6 +2,8 @@
 
 📩 raghav.chadha25@gmail.com
 
+🔒 The **source code access is available to verified reviewers (e.g., recruiters, hiring managers, professors) upon request** to protect integrity.
+
 # 🚉 Railway Track Simulation (MTS)
 
 This project is a **multithreaded train traffic simulator** built in **C**.  
