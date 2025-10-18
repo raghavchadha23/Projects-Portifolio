@@ -24,7 +24,7 @@ Each project includes a README with the objective, technologies used, architectu
 ### 🗓️ [ICS Calendar Parser](projects/ics-parser)
 Parses `.ics` calendar files into human-readable output, handling recurring and overlapping events.  
 Includes custom data structures and efficient event indexing.  
-**Tech:** C, File I/O, Data Structures  
+**Tech:** PYTHON, File I/O, Data Structures  
 **Status:** Completed 
 
 ---
